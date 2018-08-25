@@ -1,0 +1,57 @@
+c:\users\arjun sahani\documents\visual studio 2017\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+c:\users\arjun sahani\documents\visual studio 2017\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+c:\users\arjun sahani\documents\visual studio 2017\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+c:\users\arjun sahani\documents\visual studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+c:\users\arjun sahani\documents\visual studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+c:\users\arjun sahani\documents\visual studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.Cache
+c:\users\arjun sahani\documents\visual studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+c:\users\arjun sahani\documents\visual studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.voice.resources
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\bin\Debug\Interop.WMPLib.dll
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Interop.WMPLib.dll
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.ResolveComReference.cache
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\bin\Debug\Jarvis.exe.config
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\bin\Debug\Jarvis.exe
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\bin\Debug\Jarvis.pdb
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\bin\Debug\Interop.WMPLib.dll
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Interop.WMPLib.dll
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.csproj.ResolveComReference.cache
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.voice.resources
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.Cache
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.exe
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.pdb
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.Resource1.resources
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\bin\Debug\Jarvis.exe.manifest
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\bin\Debug\Jarvis.application
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.exe.manifest
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis - Copy\Jarvis\obj\Debug\Jarvis.application
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.exe.manifest
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\bin\Debug\Jarvis.application
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.Resource1.resources
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.exe.manifest
+C:\Users\Arjun Sahani\Documents\Visual Studio 2017\Projects\Jarvis\Jarvis\obj\Debug\Jarvis.application
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\bin\Debug\Jarvis.exe.manifest
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\bin\Debug\Jarvis.application
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\bin\Debug\Interop.WMPLib.dll
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\bin\Debug\AxInterop.WMPLib.dll
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Interop.WMPLib.dll
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\AxInterop.WMPLib.dll
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.ResolveComReference.cache
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.Resource1.resources
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.voice.resources
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.Cache
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.exe.manifest
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.application
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+D:\C# Projects\Jarvis Voice Recognition (A.I.)\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
